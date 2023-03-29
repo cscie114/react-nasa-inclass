@@ -1,6 +1,6 @@
 # react-nasa-inclass
 
-Example developed in class on Tue Mar 28, 2023.
+React example developed in class on Tue Mar 28, 2023 using [vite](https://vitejs.dev/).
 
 Note that you will need to obtain an API key from https://api.nasa.gov/ and update `src/env.json` to run the example.
 
